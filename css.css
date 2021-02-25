@@ -1,0 +1,24 @@
+.images{
+  height:30rem;
+  width:100%;
+}
+
+#close{
+  border-color: white;
+}
+
+.container1{
+  margin: auto;
+   width:30%;
+   padding: 10px;
+
+}
+.container1img{
+border-color: black;
+}
+
+.container2{
+  margin: auto;
+   width:37%;
+   padding: 10px;
+}
